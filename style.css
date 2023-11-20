@@ -1,0 +1,17 @@
+table {
+   
+    width: 70%;
+    margin: auto;
+    
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+.gray {
+    background-color: gray;
+}
+.green {
+    background-color: green;
+}
